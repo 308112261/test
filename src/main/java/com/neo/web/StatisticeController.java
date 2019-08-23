@@ -21,7 +21,7 @@ public class StatisticeController {
 
 
 	/**
-	* @description: 测试
+	* @description: 发送否拉萨大家发来的撒开理发店
 	* @author: ch
 	* @Param []
 	* @return void
